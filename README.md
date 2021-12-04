@@ -1,7 +1,7 @@
 # lejos-nxt
 
-## A NXT robotics project using the leJOS NXJ API.
+### A NXT robotics project using the leJOS NXJ API
 
-[Link](https://lejos.sourceforge.io/nxt/nxj/tutorial/index.htm "leJOS NXJ tutorial")
-
-[Link](https://lejos.sourceforge.io/nxt/nxj/api/index.html "leJOS NXJ API documentation")
+Useful Links
+.._[leJOS NXJ tutorial](https://lejos.sourceforge.io/nxt/nxj/tutorial/index.htm)
+.._[leJOS NXJ API documentation](https://lejos.sourceforge.io/nxt/nxj/api/index.html)
