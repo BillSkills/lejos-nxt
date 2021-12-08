@@ -1,4 +1,3 @@
-package projects;
 
 import java.io.*;
 import java.util.*;
@@ -12,5 +11,6 @@ public class music_test {
     public static void main(String[] args) {
         File music = new File("running90s.wav");
         Sound.playSample(music);
+        Button.waitForAnyPress();
     }
 }

@@ -1,12 +1,13 @@
-package projects;
+import lejos.nxt.Button;
 
 public class pucci {
 
-    public static int primesTo = 1000;
+    public static int primesTo = 10000;
     public static void main(String[] args) {
         for (int i = 2; i <= primesTo; i++) {
             if (isPrimeBrute(i)){System.out.println(i);}
         }
+        Button.waitForAnyPress();
     }
 
     public static boolean isPrimeBrute(int number){
