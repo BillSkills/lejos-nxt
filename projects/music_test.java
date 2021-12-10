@@ -9,7 +9,7 @@ import lejos.util.*;
 public class music_test {
 
     public static void main(String[] args) {
-        File music = new File("running90s.wav");
+        File music = new File("moonmen.wav");
         Sound.playSample(music);
         Button.waitForAnyPress();
     }
