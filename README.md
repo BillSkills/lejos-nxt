@@ -4,7 +4,7 @@
 
 Useful Links
 
-- [leJOS NXJ tutorial](https://lejos.sourceforge.io/nxt/nxj/tutorial/index.htm)
-- [leJOS NXJ API documentation](https://lejos.sourceforge.io/nxt/nxj/api/index.html)
-
-haha yes
+- [leJOS NXJ Tutorial](https://lejos.sourceforge.io/nxt/nxj/tutorial/index.htm)
+- [leJOS NXJ API Documentation](https://lejos.sourceforge.io/nxt/nxj/api/index.html)
+- [NXT Software](https://education.lego.com/en-us/downloads/retiredproducts/nxt/software)
+- [LEGO MINDSTORMS Downloads](https://www.lego.com/en-us/themes/mindstorms/downloads)
