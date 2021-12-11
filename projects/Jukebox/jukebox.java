@@ -11,5 +11,4 @@ public class jukebox {
         Sound.playSample(music);
         Button.waitForAnyPress();
     }
-    
 }
