@@ -1,6 +1,6 @@
-# lejos-nxt
+# [ABANDONED] lejos-nxt
 
-### A NXT robotics project using the leJOS NXJ API
+### An NXT robotics project using the leJOS NXJ API
 
 Useful Links
 
